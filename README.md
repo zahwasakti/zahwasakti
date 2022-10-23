@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zahwasakti
-- 👀 I’m interested in web developing
+- 👀 I’m interested in backend developing
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Interactive web
 - 📫 How to reach me send email to zahwaaazahirah@gmail.com
 
 <!---
